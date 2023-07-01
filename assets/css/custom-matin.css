@@ -30,3 +30,13 @@
     }
     
 }
+@media screen and (max-width: 411px) {
+    .contact-list li span {
+        font-size: 15px;
+        font-style: bold;
+    }
+    .contact-list li p {
+        font-size: 15px;
+        font-style: bold;
+    }
+}
